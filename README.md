@@ -1,5 +1,6 @@
-*ESPENSE TRACKER
+# ESPENSE TRACKER
 
 Open cmd and run the command:
-'''bash
+```bash
 python tracker.py
+```
